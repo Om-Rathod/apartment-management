@@ -1,1 +1,1 @@
-# apartment-management
+gym-management
